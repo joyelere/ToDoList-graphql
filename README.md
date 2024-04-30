@@ -76,7 +76,7 @@ mutation {
 
 ### AWS Lambda and API Gateway
 1. **Deploying GraphQL API on AWS Lambda**:
-- Ensure you have an AWS account and the AWS CLI installed.
+- Ensure you have an AWS account and the AWS CLI installed or login to your AWS Management Console.
 - Create an AWS Lambda function for your GraphQL API using the provided index.js file.
 - Set up API Gateway to trigger your Lambda function.
 2. **Generating the API Gateway Endpoint**:
